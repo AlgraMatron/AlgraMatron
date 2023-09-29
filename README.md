@@ -1,7 +1,7 @@
 <h1 align="center">hallo, everynyan</h1>
 <p align="center"><img align="center" width="200px" style="padding-right:10;" src="https://media.tenor.com/VUZpnT4pesUAAAAC/azumanga-daioh-hello-everyone.gif"></p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&width=727&lines=haw+are+you%3F)](https://git.io/typing-svg"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&width=727&lines=haw+are+you%3F)](https://git.io/typing-svg)"></p>
 
 <h2 align="center">fine, shank you.</h2>
 
@@ -24,6 +24,7 @@
 ### but yeah heres my uhh idk my youtube channel or something maybe you're interested idk cheers mate
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![asal kamu bahagia | suki na ko ga megane wo wasureta edit](https://ytcards.demolab.com/?id=zmPLCbAcn0c&title=asal+kamu+bahagia+%7C+suki+na+ko+ga+megane+wo+wasureta+edit&lang=en&timestamp=1692799325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "asal kamu bahagia | suki na ko ga megane wo wasureta edit")](https://www.youtube.com/watch?v=zmPLCbAcn0c)
 [![what i ache | chainsaw man edit](https://ytcards.demolab.com/?id=8LmbXsmZUik&title=what+i+ache+%7C+chainsaw+man+edit&lang=en&timestamp=1681925094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "what i ache | chainsaw man edit")](https://www.youtube.com/watch?v=8LmbXsmZUik)
 [![onoffonoff | kyoukai no kanata edit](https://ytcards.demolab.com/?id=jCMdmMrepUc&title=onoffonoff+%7C+kyoukai+no+kanata+edit&lang=en&timestamp=1675093885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "onoffonoff | kyoukai no kanata edit")](https://www.youtube.com/watch?v=jCMdmMrepUc)
@@ -33,4 +34,5 @@
 [![alive | cyberpunk edgerunners edit](https://ytcards.demolab.com/?id=KvV1UXU8QVU&title=alive+%7C+cyberpunk+edgerunners+edit&lang=en&timestamp=1667144610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "alive | cyberpunk edgerunners edit")](https://www.youtube.com/watch?v=KvV1UXU8QVU)
 [![ifieverfeel | mairimashita! iruma-kun edit](https://ytcards.demolab.com/?id=1aAOoKghqq0&title=ifieverfeel+%7C+mairimashita%21+iruma-kun+edit&lang=en&timestamp=1662642932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ifieverfeel | mairimashita! iruma-kun edit")](https://www.youtube.com/watch?v=1aAOoKghqq0)
 [![emorave mix 1: deep end | higurashi edit](https://ytcards.demolab.com/?id=yoI1OkfwVxI&title=emorave+mix+1%3A+deep+end+%7C+higurashi+edit&lang=en&timestamp=1660299833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "emorave mix 1: deep end | higurashi edit")](https://www.youtube.com/watch?v=yoI1OkfwVxI)
+
 <!-- END YOUTUBE-CARDS -->
