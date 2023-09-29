@@ -1,5 +1,5 @@
 <h1 align="center">hallo, everynyan</h1>
-<p align="center"><img align="center" width="200px" style="padding-right:10;" src="https://cdn.discordapp.com/attachments/848715558010748939/1157246639359139850/azumanga-daioh-hello-everyone.gif"></p>
+<p align="center"><img align="center" width="200px" style="padding-right:10;" src="../gif/hallo-everynyan.gif"></p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&width=727&lines=haw+are+you%3F"></p>
 
@@ -9,7 +9,7 @@
 <div align="center">
 <img align="center" width="200px" style="padding-right:10;" src="https://media.tenor.com/of_mwJmMNbsAAAAC/azumanga-azumanga-daioh.gif">
 <img align="center" width="200px" style="padding-right:10;" src="https://media.tenor.com/0BUW9CWyqccAAAAC/osaka-live-reaction.gif">
-<img align="center" width="200px" style="padding-right:10;" src="https://cdn.discordapp.com/attachments/848715558010748939/1157246638956494899/osaka-azumanga-daioh.gif">
+<img align="center" width="200px" style="padding-right:10;" src="../gif/thereisnoescape.gif">
 </div>
 
 ---
