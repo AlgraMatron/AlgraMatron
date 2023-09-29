@@ -1,7 +1,7 @@
 <h1 align="center">hallo, everynyan</h1>
 <p align="center"><img align="center" height="200px" style="padding-right:10;" src="https://github.com/AlgraMatron/AlgraMatron/blob/main/gif/hallo-everynyan.gif"></p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&width=727&lines=haw+are+you%3F"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&weight=700&size=24&duration=2000&pause=500&center=true&width=500&lines=how+are+you%3F"></p>
 
 <h2 align="center">fine, shank you.</h2>
 
