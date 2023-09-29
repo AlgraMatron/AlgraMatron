@@ -1,7 +1,7 @@
 <h1 align="center">hallo, everynyan</h1>
 <p align="center"><img align="center" width="200px" style="padding-right:10;" src="https://media.tenor.com/VUZpnT4pesUAAAAC/azumanga-daioh-hello-everyone.gif"></p>
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&width=727&lines=haw+are+you%3F)](https://git.io/typing-svg)</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&width=727&lines=haw+are+you%3F)](https://git.io/typing-svg"></p>
 
 <h2 align="center">fine, shank you.</h2>
 
