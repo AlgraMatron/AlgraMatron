@@ -1,15 +1,15 @@
 <h1 align="center">hallo, everynyan</h1>
-<p align="center"><img align="center" width="200px" style="padding-right:10;" src="https://github.com/AlgraMatron/AlgraMatron/blob/main/gif/hallo-everynyan.gif"></p>
+<p align="center"><img align="center" height="200px" style="padding-right:10;" src="https://github.com/AlgraMatron/AlgraMatron/blob/main/gif/hallo-everynyan.gif"></p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&width=727&lines=haw+are+you%3F"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=helvetica&pause=1000&color=FFFFFF&center=true&height=727&lines=haw+are+you%3F"></p>
 
 <h2 align="center">fine, shank you.</h2>
 
 <h3 align="center">oomaigaah</h3>
 <div align="center">
-<img align="center" width="200px" style="padding-right:10;" src="https://media.tenor.com/of_mwJmMNbsAAAAC/azumanga-azumanga-daioh.gif">
-<img align="center" width="200px" style="padding-right:10;" src="https://media.tenor.com/0BUW9CWyqccAAAAC/osaka-live-reaction.gif">
-<img align="center" width="200px" style="padding-right:10;" src="https://github.com/AlgraMatron/AlgraMatron/blob/main/gif/thereisnoescape.gif">
+<img align="center" height="200px" style="padding-right:10;" src="https://media.tenor.com/of_mwJmMNbsAAAAC/azumanga-azumanga-daioh.gif">
+<img align="center" height="200px" style="padding-right:10;" src="https://media.tenor.com/0BUW9CWyqccAAAAC/osaka-live-reaction.gif">
+<img align="center" height="200px" style="padding-right:10;" src="https://github.com/AlgraMatron/AlgraMatron/blob/main/gif/thereisnoescape.gif">
 </div>
 
 ---
